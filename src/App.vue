@@ -6,7 +6,7 @@
       <div class="head-top">
         <div class="section">
           <div class="left-box">
-            <span>黑马买买买</span>
+            <span>买买</span>
             <a target="_blank" href="#"></a>
             <a target="_blank" href="#"></a>
           </div>
@@ -61,7 +61,7 @@
               </li>
               <li class="video">
                 <a href="#" class>
-                  <span class="out" style="top: 0px;">黑马超市</span>
+                  <span class="out" style="top: 0px;">超市</span>
                 </a>
               </li>
               <li class="down">
